@@ -1,2 +1,2 @@
 # analyticsPetProjects
-Pet project notebooks of mine
+Исследовательские ноутбуки на обезличенных данных
