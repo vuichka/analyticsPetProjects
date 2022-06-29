@@ -2,4 +2,7 @@
 /games_project/datasets
 /property_service/datasets
 /telecom_research/datasets
+/marketing_metrics/datasets
 
+
+.DS_Store
