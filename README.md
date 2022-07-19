@@ -1,20 +1,25 @@
-# analyticsPetProjects
+# Пет проекты
 Исследовательские ноутбуки на обезличенных данных различных сервисов.
 
-1. [Компютерные игры](games_project/games.ipynb)
-2. [Маркетинговых метрики](https://nbviewer.org/github/vuichka/analyticsPetProjects/blob/main/marketing_metrics/marketing.ipynb)
-3. [Исследование цен операторов связи](telecom_research/telecom_research.ipynb)
-4. [Кредитный скоринг](credit_score/credit_score.ipynb)
-5. [Недвижимость](property_service/property.ipynb)
+1. [Недвижимость](property_service/property.ipynb)
+1. [Кредитный скоринг](credit_score/credit_score.ipynb)
+1. [Исследование цен операторов связи](telecom_research/telecom_research.ipynb)
+1. [Компьютерные игры](games_project/games.ipynb)
+1. [Маркетинговых метрики](https://nbviewer.org/github/vuichka/analyticsPetProjects/blob/main/marketing_metrics/marketing.ipynb)
+
 
 ## Описание проектов
+1. ### Недвижимость
+	Предобработал, исследовал и визуализировал данные с популярных маркетплейсов с помощью `pandas`, `seaborn`.
 
-### Компютерные игры
+1. ### Кредитный скоринг
+	Провел масштабную предобработку данных. Использовал `NLTK` и `pandas`.
 
-### Маркетинговых метрики
+1. ### Исследование цен операторов связи
+	Проверил статистические гипотезы, исследовал ценовую политику тарифов телеком компании. Пользовался `scipy.stats`, `seaborn`, `pandas`.
 
-### Исследование цен операторов связи
-
-### Кредитный скоринг
-
-### Недвижимость
+1. ### Компютерные игры
+	Провел ETL, проверил продуктовые гипотезы. Стек: `pandas, numpy, requests, seaborn, matplotlib, scipy, os`.
+	
+1. ### Маркетинговых метрики
+	Рассчитал метрики юнит экономики(`LTV, retention, conversion`), определил убытки и оптимизировал вложения на маркетинг.
