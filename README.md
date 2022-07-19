@@ -1,7 +1,7 @@
 # analyticsPetProjects
 Исследовательские ноутбуки на обезличенных данных различных сервисов.
 
-1. [Компютерные игры](games_project/games.ipynb)
+1. [Компьютерные игры](games_project/games.ipynb)
 2. [Маркетинговых метрики](https://nbviewer.org/github/vuichka/analyticsPetProjects/blob/main/marketing_metrics/marketing.ipynb)
 3. [Исследование цен операторов связи](telecom_research/telecom_research.ipynb)
 4. [Кредитный скоринг](credit_score/credit_score.ipynb)
