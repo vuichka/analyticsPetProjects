@@ -6,7 +6,7 @@
 1. [Исследование цен операторов связи](telecom_research/telecom_research.ipynb)
 1. [Компьютерные игры](games_project/games.ipynb)
 1. [Маркетинговых метрики](https://nbviewer.org/github/vuichka/analyticsPetProjects/blob/main/marketing_metrics/marketing.ipynb)
-
+1. [A/B тест](ab_test/ab_test.ipynb)
 
 ## Описание проектов
 1. ### Недвижимость
