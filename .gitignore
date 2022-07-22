@@ -3,7 +3,8 @@
 /property_service/datasets
 /telecom_research/datasets
 /marketing_metrics/datasets
-
+/ab_test/datasets
+/student_mental_health
 
 # os files
 .git*
