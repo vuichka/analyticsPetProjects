@@ -3,9 +3,11 @@
 /property_service/datasets
 /telecom_research/datasets
 /marketing_metrics/datasets
-marketing_metrics/.ipynb_checkpoints
+
 
 # os files
+.git*
+.ipynb_checkpoints
 .gitignore
 .DS_Store
 .DS_Store?
